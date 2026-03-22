@@ -1,25 +1,86 @@
-<h1 align="center">Hi 👋, I'm Anant Singh Tanwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Anant Singh Tanwar</h1>
+<h3 align="center">AI / ML Developer • Backend Enthusiast • Building Real Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantsinghtanwar-ux&label=Profile%20views&color=0e75b6&style=flat" alt="anantsinghtanwar-ux" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantsinghtanwar-ux" alt="anantsinghtanwar-ux" /></a> </p>
+### 🚀 About Me
+- 🔭 Building **intelligent systems & scalable backend applications**
+- 🌱 Currently learning **Java Backend, Spring, System Design**
+- 💡 Interested in **AI, NLP, and real-world problem solving**
+- ⚡ Focused on **clean and practical solutions**
 
-- 🌱 I’m currently learning **JS, Backend**
+---
 
-- 📫 How to reach me **anantsinghtanwar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/anant singh tanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant singh tanwar" height="30" width="40" /></a>
-<a href="https://instagram.com/a.n.a.n.t_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.n.a.n.t_7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anant singh tanwar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/a.n.a.n.t_7" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://x.com/AnantSinghTanwr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantsinghtanwar-ux&show_icons=true&locale=en&layout=compact" alt="anantsinghtanwar-ux" /></p>
+### 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantsinghtanwar-ux&show_icons=true&locale=en" alt="anantsinghtanwar-ux" /></p>
+#### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantsinghtanwar-ux&" alt="anantsinghtanwar-ux" /></p>
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+#### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+#### 🤖 AI / ML
+PyTorch • Transformers • Scikit-learn • Pandas • NumPy
+
+#### 🧰 Tools
+Git • GitHub • Linux • Postman • VS Code
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anantsinghtanwar-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantsinghtanwar-ux&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantsinghtanwar-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🧠 Projects Focus
+- 🤖 AI-powered learning systems  
+- 🔄 Backend automation & workflows  
+- 📊 Data-driven applications  
+- ⚙️ Scalable APIs  
+
+---
+
+### ✨ Motto
+> Build real things. Solve real problems. Keep it clean.
+
+---
+
+### 👀 Profile Views
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=anantsinghtanwar-ux&label=Profile%20Views&color=7c3aed&style=flat" />
+</p>
